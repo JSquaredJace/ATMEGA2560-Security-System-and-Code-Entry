@@ -6,6 +6,9 @@
  * Description:	ATMEGA2560 emulates a home security keypad with a screen. It
  *				does this by taking in information from a keypad matrix and
  *				outputting prompts and other information to the LCD screen.
+ *				This program is based on the Security System with Code Entry
+ *				program from lab 4 that uses a 4 digit 7 segment display
+ *				instead of an LCD screen.
  * 
  * Hardware:	ATMega 2560 operating at 16 MHz
  *				LCD screen
